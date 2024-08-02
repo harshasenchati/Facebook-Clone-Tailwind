@@ -36,7 +36,7 @@ The Facebook Tailwind Clone project is a frontend clone of the Facebook website.
 
 - <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30" height="30"> HTML
 - <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="30" height="30"> CSS
-- <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="30" height="30"> Tailwind CSS
+- <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="30" height="30"> Tailwind CSS
 
 ## Setup
 
