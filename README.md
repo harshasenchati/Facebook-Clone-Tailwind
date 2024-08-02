@@ -45,3 +45,22 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/harshasenchati/Facebook-Tailwind.git
+   ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd Facebook-Tailwind
+   ```
+3. **Install the dependencies**:
+  ```bash
+npm install
+```
+4. **Run the development server**:
+  ```bash
+npm start
+```
+This will start the development server and typically open the application in your default browser. If it doesn’t, you can manually navigate to http://localhost:3000 in your browser.
+## Usage
+After following the setup steps, open your browser and navigate to http://localhost:3000 to view and interact with the Facebook-Tailwind application.
+
+## License
+This project is licensed under the MIT License.
