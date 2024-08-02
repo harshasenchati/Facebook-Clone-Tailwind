@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="link-to-your-gif.gif" alt="Project Demo">
+  <img src="https://github.com/harshasenchati/Facebook-Tailwind/blob/main/facebook-record.gif" alt="Project Demo">
 </div>
 
 ---
@@ -19,7 +19,7 @@
 - [⚙️ Setup](#setup)
 - [🚀 Usage](#usage)
 - [📜 License](#license)
-- [📬 Contact](#contact)
+
 
 ## Introduction
 
